@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalmenJalleli
 - 👀 I’m interested in Web/mobile apps development and AI/IoT based systems
-- 🌱 I’m currently learning Flutter, Kotlin, Angular, springboot ..
+- 🌱 I’m currently learning React, Java and Kotlin
 - 💞️ I’m looking to collaborate on Web and mobile apps
 - ✨ Working currently as an android developer
 - 📫 How to reach me: on linkedIn: https://www.linkedin.com/in/salmen-jalleli-65664418b/             
